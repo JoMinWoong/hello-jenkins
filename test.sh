@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "test complete!!\n"
+echo "[TODO] start test \n"
